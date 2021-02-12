@@ -1,0 +1,11 @@
+[info]
+title=repro_sidebar_layout
+desc=(Fill the description)
+type=cudatext-plugin
+subdir=cuda__repro_sidebar_layout
+homepage=(Fill the GitHub repo URL)
+
+[bottombar1]
+hint=Fake
+icon={dir}/terminal.png
+method=open
